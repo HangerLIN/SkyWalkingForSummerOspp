@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-query-plugin/debugging-query-plugin/src/main/java/org/apache/skywalking/oap/query/debug/DebuggingHTTPHandler.java">
+</file>
+<file name="/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-query-plugin/debugging-query-plugin/src/main/java/org/apache/skywalking/oap/query/debug/DebuggingQueryConfig.java">
+</file>
+<file name="/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-query-plugin/debugging-query-plugin/src/main/java/org/apache/skywalking/oap/query/debug/DebuggingQueryModule.java">
+</file>
+<file name="/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-query-plugin/debugging-query-plugin/src/main/java/org/apache/skywalking/oap/query/debug/DebuggingQueryProvider.java">
+</file>
+</checkstyle>

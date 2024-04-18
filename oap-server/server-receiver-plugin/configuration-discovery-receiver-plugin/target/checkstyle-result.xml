@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-receiver-plugin/configuration-discovery-receiver-plugin/src/main/java/org/apache/skywalking/oap/server/receiver/configuration/discovery/handler/grpc/ConfigurationDiscoveryServiceHandler.java">
+</file>
+<file name="/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-receiver-plugin/configuration-discovery-receiver-plugin/src/main/java/org/apache/skywalking/oap/server/receiver/configuration/discovery/AgentConfigurations.java">
+</file>
+<file name="/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-receiver-plugin/configuration-discovery-receiver-plugin/src/main/java/org/apache/skywalking/oap/server/receiver/configuration/discovery/ConfigurationDiscoveryModule.java">
+</file>
+<file name="/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-receiver-plugin/configuration-discovery-receiver-plugin/src/main/java/org/apache/skywalking/oap/server/receiver/configuration/discovery/AgentConfigurationsReader.java">
+</file>
+<file name="/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-receiver-plugin/configuration-discovery-receiver-plugin/src/main/java/org/apache/skywalking/oap/server/receiver/configuration/discovery/AgentConfigurationsTable.java">
+</file>
+<file name="/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-receiver-plugin/configuration-discovery-receiver-plugin/src/main/java/org/apache/skywalking/oap/server/receiver/configuration/discovery/ConfigurationDiscoveryModuleConfig.java">
+</file>
+<file name="/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-receiver-plugin/configuration-discovery-receiver-plugin/src/main/java/org/apache/skywalking/oap/server/receiver/configuration/discovery/ConfigurationDiscoveryProvider.java">
+</file>
+<file name="/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-receiver-plugin/configuration-discovery-receiver-plugin/src/main/java/org/apache/skywalking/oap/server/receiver/configuration/discovery/AgentConfigurationsWatcher.java">
+</file>
+<file name="/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-receiver-plugin/configuration-discovery-receiver-plugin/src/test/java/org/apache/skywalking/oap/server/receiver/configuration/discovery/AgentConfigurationsReaderTest.java">
+</file>
+<file name="/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-receiver-plugin/configuration-discovery-receiver-plugin/src/test/java/org/apache/skywalking/oap/server/receiver/configuration/discovery/AgentConfigurationsWatcherTest.java">
+</file>
+<file name="/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-receiver-plugin/configuration-discovery-receiver-plugin/src/test/resources/agent-dynamic-configuration.yml">
+</file>
+</checkstyle>

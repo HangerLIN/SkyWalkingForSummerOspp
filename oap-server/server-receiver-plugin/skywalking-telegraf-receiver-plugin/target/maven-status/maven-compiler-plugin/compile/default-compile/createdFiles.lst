@@ -1,0 +1,7 @@
+org/apache/skywalking/oap/server/receiver/telegraf/provider/TelegrafReceiverProvider$1.class
+org/apache/skywalking/oap/server/receiver/telegraf/provider/handler/pojo/TelegrafData.class
+org/apache/skywalking/oap/server/receiver/telegraf/provider/handler/pojo/TelegrafDatum.class
+org/apache/skywalking/oap/server/receiver/telegraf/provider/TelegrafReceiverProvider.class
+org/apache/skywalking/oap/server/receiver/telegraf/provider/handler/TelegrafServiceHandler.class
+org/apache/skywalking/oap/server/receiver/telegraf/module/TelegrafReceiverModule.class
+org/apache/skywalking/oap/server/receiver/telegraf/provider/TelegrafModuleConfig.class

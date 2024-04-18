@@ -1,0 +1,7 @@
+org/apache/skywalking/oap/server/testing/module/mock/MockModuleManager.class
+org/apache/skywalking/oap/server/testing/module/ModuleProviderTesting.class
+org/junit/rules/TestRule.class
+org/apache/skywalking/oap/server/testing/module/mock/MockModuleProvider.class
+org/apache/skywalking/oap/server/testing/module/ModuleManagerTesting.class
+org/apache/skywalking/oap/server/testing/module/ModuleDefineTesting.class
+org/junit/runners/model/Statement.class

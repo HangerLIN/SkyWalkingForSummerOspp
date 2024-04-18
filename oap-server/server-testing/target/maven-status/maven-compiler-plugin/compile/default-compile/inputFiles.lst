@@ -1,0 +1,7 @@
+/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-testing/src/main/java/org/apache/skywalking/oap/server/testing/module/mock/MockModuleManager.java
+/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-testing/src/main/java/org/apache/skywalking/oap/server/testing/module/ModuleManagerTesting.java
+/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-testing/src/main/java/org/junit/rules/TestRule.java
+/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-testing/src/main/java/org/apache/skywalking/oap/server/testing/module/ModuleProviderTesting.java
+/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-testing/src/main/java/org/apache/skywalking/oap/server/testing/module/ModuleDefineTesting.java
+/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-testing/src/main/java/org/junit/runners/model/Statement.java
+/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-testing/src/main/java/org/apache/skywalking/oap/server/testing/module/mock/MockModuleProvider.java

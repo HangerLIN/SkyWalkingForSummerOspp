@@ -1,0 +1,10 @@
+org/apache/skywalking/oap/server/receiver/otel/OtelMetricReceiverConfig.class
+org/apache/skywalking/oap/server/receiver/otel/otlp/OpenTelemetryMetricHandler.class
+org/apache/skywalking/oap/server/receiver/otel/otlp/OpenTelemetryTraceHandler$1.class
+org/apache/skywalking/oap/server/receiver/otel/OtelMetricReceiverProvider$1.class
+org/apache/skywalking/oap/server/receiver/otel/otlp/OpenTelemetryLogHandler.class
+org/apache/skywalking/oap/server/receiver/otel/Handler.class
+org/apache/skywalking/oap/server/receiver/otel/OtelMetricReceiverProvider.class
+org/apache/skywalking/oap/server/receiver/otel/otlp/OpenTelemetryTraceHandler.class
+org/apache/skywalking/oap/server/receiver/otel/otlp/OpenTelemetryMetricRequestProcessor.class
+org/apache/skywalking/oap/server/receiver/otel/OtelMetricReceiverModule.class

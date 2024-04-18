@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Annotation profile for apm" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="oal-grammar" />
+        <module name="ai-pipeline" />
+        <module name="oal-rt" />
+        <module name="server-alarm-plugin" />
+        <module name="mqe-rt" />
+        <module name="apm-network" />
+        <module name="mqe-grammar" />
+      </profile>
+      <profile name="Annotation profile for apm-webapp" enabled="true">
+        <sourceOutputDir name="../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="apm-webapp" />
+      </profile>
+      <profile name="Annotation profile for event-analyzer" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="event-analyzer" />
+      </profile>
+      <profile name="Annotation profile for log-analyzer" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="log-analyzer" />
+      </profile>
+      <profile name="Annotation profile for meter-analyzer" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="meter-analyzer" />
+      </profile>
+      <profile name="Annotation profile for cluster-etcd-plugin" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cluster-etcd-plugin" />
+      </profile>
+      <profile name="Annotation profile for cluster-nacos-plugin" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cluster-nacos-plugin" />
+      </profile>
+      <profile name="Annotation profile for cluster-standalone-plugin" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cluster-standalone-plugin" />
+      </profile>
+      <profile name="Annotation profile for cluster-zookeeper-plugin" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cluster-zookeeper-plugin" />
+      </profile>
+      <profile name="Annotation profile for configuration-apollo" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="configuration-apollo" />
+      </profile>
+      <profile name="Annotation profile for configuration-etcd" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="configuration-etcd" />
+      </profile>
+      <profile name="Annotation profile for configuration-k8s-configmap" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="configuration-k8s-configmap" />
+      </profile>
+      <profile name="Annotation profile for configuration-nacos" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="configuration-nacos" />
+      </profile>
+      <profile name="Annotation profile for grpc-configuration-sync" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="grpc-configuration-sync" />
+      </profile>
+      <profile name="Annotation profile for kafka-fetcher-plugin" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="kafka-fetcher-plugin" />
+      </profile>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cluster-consul-plugin" />
+        <module name="library-datacarrier-queue" />
+        <module name="cluster-kubernetes-plugin" />
+        <module name="library-server" />
+        <module name="server-starter" />
+        <module name="library-util" />
+        <module name="configuration-discovery-receiver-plugin" />
+        <module name="skywalking-ebpf-receiver-plugin" />
+        <module name="exporter" />
+        <module name="skywalking-jvm-receiver-plugin" />
+        <module name="server-testing" />
+        <module name="skywalking-sharing-server-plugin" />
+        <module name="skywalking-clr-receiver-plugin" />
+        <module name="zipkin-query-plugin" />
+        <module name="configuration-consul" />
+        <module name="library-kubernetes-support" />
+        <module name="server-core" />
+        <module name="storage-jdbc-hikaricp-plugin" />
+        <module name="configuration-zookeeper" />
+        <module name="library-client" />
+        <module name="tool-profile-snapshot-exporter" />
+        <module name="debugging-query-plugin" />
+        <module name="agent-analyzer" />
+        <module name="server-health-checker" />
+        <module name="configuration-api" />
+        <module name="skywalking-trace-receiver-plugin" />
+        <module name="skywalking-mesh-receiver-plugin" />
+        <module name="envoy-metrics-receiver-plugin" />
+      </profile>
+      <profile name="Annotation profile for library-elasticsearch-client" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="library-elasticsearch-client" />
+      </profile>
+      <profile name="Annotation profile for library-module" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="library-module" />
+      </profile>
+      <profile name="Annotation profile for logql-plugin" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="logql-plugin" />
+      </profile>
+      <profile name="Annotation profile for promql-plugin" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="promql-plugin" />
+      </profile>
+      <profile name="Annotation profile for query-graphql-plugin" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="query-graphql-plugin" />
+      </profile>
+      <profile name="Annotation profile for aws-firehose-receiver" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="aws-firehose-receiver" />
+      </profile>
+      <profile name="Annotation profile for otel-receiver-plugin" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="otel-receiver-plugin" />
+      </profile>
+      <profile name="Annotation profile for receiver-proto" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="receiver-proto" />
+      </profile>
+      <profile name="Annotation profile for skywalking-browser-receiver-plugin" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="skywalking-browser-receiver-plugin" />
+      </profile>
+      <profile name="Annotation profile for skywalking-event-receiver-plugin" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="skywalking-event-receiver-plugin" />
+      </profile>
+      <profile name="Annotation profile for skywalking-log-receiver-plugin" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="skywalking-log-receiver-plugin" />
+      </profile>
+      <profile name="Annotation profile for skywalking-management-receiver-plugin" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="skywalking-management-receiver-plugin" />
+      </profile>
+      <profile name="Annotation profile for skywalking-meter-receiver-plugin" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="skywalking-meter-receiver-plugin" />
+      </profile>
+      <profile name="Annotation profile for skywalking-profile-receiver-plugin" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="skywalking-profile-receiver-plugin" />
+      </profile>
+      <profile name="Annotation profile for skywalking-telegraf-receiver-plugin" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="skywalking-telegraf-receiver-plugin" />
+      </profile>
+      <profile name="Annotation profile for skywalking-zabbix-receiver-plugin" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="skywalking-zabbix-receiver-plugin" />
+      </profile>
+      <profile name="Annotation profile for zipkin-receiver-plugin" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="zipkin-receiver-plugin" />
+      </profile>
+      <profile name="Annotation profile for storage-banyandb-plugin" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="storage-banyandb-plugin" />
+      </profile>
+      <profile name="Annotation profile for storage-elasticsearch-plugin" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="storage-elasticsearch-plugin" />
+      </profile>
+      <profile name="Annotation profile for telemetry-api" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="telemetry-api" />
+      </profile>
+      <profile name="Annotation profile for telemetry-prometheus" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="telemetry-prometheus" />
+      </profile>
+      <profile name="Annotation profile for data-generator" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="data-generator" />
+      </profile>
+      <profile name="Annotation profile for tool-profile-snapshot-bootstrap" enabled="true">
+        <sourceOutputDir name="../../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tool-profile-snapshot-bootstrap" />
+      </profile>
+      <profile name="Annotation profile for tool-profile-snapshot-server-mock" enabled="true">
+        <sourceOutputDir name="../../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tool-profile-snapshot-server-mock" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

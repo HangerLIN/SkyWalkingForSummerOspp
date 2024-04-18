@@ -1,0 +1,9 @@
+org/apache/skywalking/oap/server/cluster/plugin/kubernetes/UidEnvSupplier.class
+org/apache/skywalking/oap/server/cluster/plugin/kubernetes/ClusterModuleKubernetesProvider.class
+org/apache/skywalking/oap/server/cluster/plugin/kubernetes/KubernetesCoordinator$K8sResourceEventHandler.class
+org/apache/skywalking/oap/server/cluster/plugin/kubernetes/NamespacedPodListInformer.class
+org/apache/skywalking/oap/server/cluster/plugin/kubernetes/ClusterModuleKubernetesProvider$1.class
+org/apache/skywalking/oap/server/cluster/plugin/kubernetes/KubernetesCoordinator.class
+org/apache/skywalking/oap/server/cluster/plugin/kubernetes/ClusterModuleKubernetesConfig.class
+org/apache/skywalking/oap/server/cluster/plugin/kubernetes/KubernetesCoordinator$1.class
+org/apache/skywalking/oap/server/cluster/plugin/kubernetes/EventType.class

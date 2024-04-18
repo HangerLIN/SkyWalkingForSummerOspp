@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-library/library-kubernetes-support/src/main/java/org/apache/skywalking/library/kubernetes/ObjectID.java">
+</file>
+<file name="/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-library/library-kubernetes-support/src/main/java/org/apache/skywalking/library/kubernetes/KubernetesServices.java">
+</file>
+<file name="/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-library/library-kubernetes-support/src/main/java/org/apache/skywalking/library/kubernetes/IstioServiceEntries.java">
+</file>
+<file name="/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-library/library-kubernetes-support/src/main/java/org/apache/skywalking/library/kubernetes/KubernetesEndpoints.java">
+</file>
+<file name="/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-library/library-kubernetes-support/src/main/java/org/apache/skywalking/library/kubernetes/KubernetesPods.java">
+</file>
+</checkstyle>

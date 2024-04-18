@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/ai-pipeline/src/main/java/org/apache/skywalking/oap/server/ai/pipeline/AIPipelineProvider.java">
+</file>
+<file name="/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/ai-pipeline/src/main/java/org/apache/skywalking/oap/server/ai/pipeline/AIPipelineConfig.java">
+</file>
+<file name="/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/ai-pipeline/src/main/java/org/apache/skywalking/oap/server/ai/pipeline/AIPipelineModule.java">
+</file>
+<file name="/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/ai-pipeline/src/main/java/org/apache/skywalking/oap/server/ai/pipeline/services/api/HttpUriRecognition.java">
+</file>
+<file name="/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/ai-pipeline/src/main/java/org/apache/skywalking/oap/server/ai/pipeline/services/api/HttpUriPattern.java">
+</file>
+<file name="/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/ai-pipeline/src/main/java/org/apache/skywalking/oap/server/ai/pipeline/services/HttpUriRecognitionService.java">
+</file>
+</checkstyle>

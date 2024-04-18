@@ -1,0 +1,5 @@
+org/apache/skywalking/oap/server/cluster/plugin/consul/ClusterModuleConsulConfig.class
+org/apache/skywalking/oap/server/cluster/plugin/consul/ClusterModuleConsulProvider.class
+org/apache/skywalking/oap/server/cluster/plugin/consul/ConsulCoordinator$ConsulEventListener.class
+org/apache/skywalking/oap/server/cluster/plugin/consul/ClusterModuleConsulProvider$1.class
+org/apache/skywalking/oap/server/cluster/plugin/consul/ConsulCoordinator.class

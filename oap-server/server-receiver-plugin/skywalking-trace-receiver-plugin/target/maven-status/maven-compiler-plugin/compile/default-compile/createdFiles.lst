@@ -1,0 +1,8 @@
+org/apache/skywalking/oap/server/receiver/trace/provider/TraceModuleProvider.class
+org/apache/skywalking/oap/server/receiver/trace/provider/handler/v8/grpc/SpanAttachedEventReportServiceHandler$1.class
+org/apache/skywalking/oap/server/receiver/trace/provider/handler/v8/grpc/TraceSegmentReportServiceHandlerCompat.class
+org/apache/skywalking/oap/server/receiver/trace/module/TraceModule.class
+org/apache/skywalking/oap/server/receiver/trace/provider/handler/v8/grpc/TraceSegmentReportServiceHandler$1.class
+org/apache/skywalking/oap/server/receiver/trace/provider/handler/v8/rest/TraceSegmentReportHandler.class
+org/apache/skywalking/oap/server/receiver/trace/provider/handler/v8/grpc/SpanAttachedEventReportServiceHandler.class
+org/apache/skywalking/oap/server/receiver/trace/provider/handler/v8/grpc/TraceSegmentReportServiceHandler.class

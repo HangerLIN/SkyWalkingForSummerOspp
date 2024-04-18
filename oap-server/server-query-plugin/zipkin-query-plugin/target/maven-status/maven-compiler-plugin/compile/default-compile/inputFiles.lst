@@ -1,0 +1,5 @@
+/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-query-plugin/zipkin-query-plugin/src/main/java/org/apache/skywalking/oap/query/zipkin/handler/ZipkinQueryHandler.java
+/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-query-plugin/zipkin-query-plugin/src/main/java/org/apache/skywalking/oap/query/zipkin/ZipkinQueryConfig.java
+/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-query-plugin/zipkin-query-plugin/src/main/java/org/apache/skywalking/oap/query/zipkin/ZipkinQueryModule.java
+/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-query-plugin/zipkin-query-plugin/src/main/java/org/apache/skywalking/oap/query/zipkin/handler/ZipkinQueryExceptionHandler.java
+/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-query-plugin/zipkin-query-plugin/src/main/java/org/apache/skywalking/oap/query/zipkin/ZipkinQueryProvider.java

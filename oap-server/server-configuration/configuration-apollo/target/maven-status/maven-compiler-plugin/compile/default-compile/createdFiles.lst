@@ -1,0 +1,5 @@
+org/apache/skywalking/oap/server/configuration/apollo/ApolloConfigWatcherRegister.class
+org/apache/skywalking/oap/server/configuration/apollo/ApolloConfigurationProvider.class
+org/apache/skywalking/oap/server/configuration/apollo/ApolloConfigurationCenterSettings.class
+org/apache/skywalking/oap/server/configuration/apollo/ApolloConfigurationProvider$1.class
+org/apache/skywalking/oap/server/configuration/apollo/ApolloConfigWatcherRegister$1.class

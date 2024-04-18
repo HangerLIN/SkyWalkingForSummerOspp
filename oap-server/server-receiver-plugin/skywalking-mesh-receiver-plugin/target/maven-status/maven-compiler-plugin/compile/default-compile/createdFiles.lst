@@ -1,0 +1,7 @@
+org/apache/skywalking/aop/server/receiver/mesh/MeshOALDefine.class
+org/apache/skywalking/aop/server/receiver/mesh/MeshReceiverProvider.class
+org/apache/skywalking/aop/server/receiver/mesh/TelemetryDataDispatcher.class
+org/apache/skywalking/aop/server/receiver/mesh/MeshGRPCHandler.class
+org/apache/skywalking/aop/server/receiver/mesh/MeshReceiverModule.class
+org/apache/skywalking/aop/server/receiver/mesh/TelemetryDataDispatcher$1.class
+org/apache/skywalking/aop/server/receiver/mesh/MeshGRPCHandler$1.class

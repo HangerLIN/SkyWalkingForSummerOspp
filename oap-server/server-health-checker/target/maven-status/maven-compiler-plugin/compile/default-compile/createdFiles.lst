@@ -1,0 +1,5 @@
+org/apache/skywalking/oap/server/health/checker/provider/HealthCheckerProvider$1.class
+org/apache/skywalking/oap/server/health/checker/module/HealthCheckerModule.class
+org/apache/skywalking/oap/server/health/checker/provider/HealthCheckerProvider.class
+org/apache/skywalking/oap/server/health/checker/provider/HealthCheckerConfig.class
+org/apache/skywalking/oap/server/health/checker/provider/HealthQueryService.class

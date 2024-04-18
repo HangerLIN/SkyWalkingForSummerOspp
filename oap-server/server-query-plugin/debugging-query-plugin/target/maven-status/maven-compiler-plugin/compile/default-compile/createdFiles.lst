@@ -1,0 +1,5 @@
+org/apache/skywalking/oap/query/debug/DebuggingHTTPHandler.class
+org/apache/skywalking/oap/query/debug/DebuggingQueryConfig.class
+org/apache/skywalking/oap/query/debug/DebuggingQueryProvider.class
+org/apache/skywalking/oap/query/debug/DebuggingQueryModule.class
+org/apache/skywalking/oap/query/debug/DebuggingQueryProvider$1.class

@@ -1,0 +1,5 @@
+org/apache/skywalking/oap/server/webapp/ZipkinProxyService.class
+org/apache/skywalking/oap/server/webapp/Configuration$ConfigurationBuilder.class
+org/apache/skywalking/oap/server/webapp/OapProxyService.class
+org/apache/skywalking/oap/server/webapp/ApplicationStartUp.class
+org/apache/skywalking/oap/server/webapp/Configuration.class

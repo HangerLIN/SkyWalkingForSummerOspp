@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-receiver-plugin/skywalking-telegraf-receiver-plugin/src/main/java/org/apache/skywalking/oap/server/receiver/telegraf/module/TelegrafReceiverModule.java">
+</file>
+<file name="/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-receiver-plugin/skywalking-telegraf-receiver-plugin/src/main/java/org/apache/skywalking/oap/server/receiver/telegraf/provider/TelegrafReceiverProvider.java">
+</file>
+<file name="/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-receiver-plugin/skywalking-telegraf-receiver-plugin/src/main/java/org/apache/skywalking/oap/server/receiver/telegraf/provider/handler/TelegrafServiceHandler.java">
+</file>
+<file name="/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-receiver-plugin/skywalking-telegraf-receiver-plugin/src/main/java/org/apache/skywalking/oap/server/receiver/telegraf/provider/handler/pojo/TelegrafData.java">
+</file>
+<file name="/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-receiver-plugin/skywalking-telegraf-receiver-plugin/src/main/java/org/apache/skywalking/oap/server/receiver/telegraf/provider/handler/pojo/TelegrafDatum.java">
+</file>
+<file name="/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-receiver-plugin/skywalking-telegraf-receiver-plugin/src/main/java/org/apache/skywalking/oap/server/receiver/telegraf/provider/TelegrafModuleConfig.java">
+</file>
+<file name="/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-receiver-plugin/skywalking-telegraf-receiver-plugin/src/test/java/org/apache/skywalking/oap/server/receiver/telegraf/mock/MockModuleManager.java">
+</file>
+<file name="/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-receiver-plugin/skywalking-telegraf-receiver-plugin/src/test/java/org/apache/skywalking/oap/server/receiver/telegraf/mock/MockModuleProvider.java">
+</file>
+<file name="/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-receiver-plugin/skywalking-telegraf-receiver-plugin/src/test/java/org/apache/skywalking/oap/server/receiver/telegraf/TelegrafMetricsTest.java">
+</file>
+<file name="/Users/lth/IdeaProjects/apache-skywalking-apm-9.7.0/oap-server/server-receiver-plugin/skywalking-telegraf-receiver-plugin/src/test/resources/telegraf-rules/vm.yaml">
+</file>
+</checkstyle>
